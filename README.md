@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baptistemchl&label=Profile%20views&color=0e75b6&style=flat" alt="baptistemchl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baptistemchl" alt="baptistemchl" /></a> </p>
+
 
 - 🔭 I’m currently working on **Coop-Ere App Project**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [my github there ;)](my github there ;))
+- 👨‍💻 All of my projects are available at my github there !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baptistemchl&show_icons=true&locale=en" alt="baptistemchl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baptistemchl&" alt="baptistemchl" /></p>
+
+
